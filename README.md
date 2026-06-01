@@ -1,3 +1,5 @@
+![cover](./cover.png)
+
 # Industria 6.0: El Futuro del Trabajo en la Era Agéntica
 
 Libro completo por Chris Meniw.
